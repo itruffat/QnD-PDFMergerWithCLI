@@ -7,4 +7,4 @@ In the end, the code to merge the PDF files itself is really short (somewhere be
 
 There a few bugs here and there, for example the program will raise an exeception if a symlinks is selected. There are also more features that I wanted to add, such as being able to manually pick which bookmarks you want to keep (instead of being "All or nothing"). But the tools does exactly what I need it to do for now.
 
-The program uses Python3, and it requires PyPDF2 and Curses.
+The program is written in Python3, and uses PyPDF2 and Curses.
