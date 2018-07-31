@@ -1,4 +1,4 @@
-# QuickAndDirty-PDFMergerCLI
+# (Quick And Dirty) PDF Merger with CLI
 An small CLI interface done in Python to quickly merge PDF files
 
 TL;DR I had to merge a few PDF files in order while leaving some bookmarks intact, so instead of downloading a program I wanted to make something simple in pure Python. I seized the opportunity to try 'curses', something I have been wanting to do for a long time.
